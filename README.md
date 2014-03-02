@@ -1,4 +1,0 @@
-freshnode
-=========
-
-fresh node
